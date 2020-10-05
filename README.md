@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Shobhit's Resume
 
 You can use the [editor on GitHub](https://github.com/shobhit9618/shobhit9618.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 

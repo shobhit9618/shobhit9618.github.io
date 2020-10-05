@@ -86,5 +86,6 @@ _Georgia Institute of technology_
 
 ### Contact me
 
+- [Download my Resume](https://drive.google.com/uc?export=view&id=1hIxhjyWwj8DGTGOFp4sscjB1daJmbhiP)
 - [LinkedIn](https://www.linkedin.com/in/shobhitgupta9618/)
 - [Twitter](https://twitter.com/shobhit9618)

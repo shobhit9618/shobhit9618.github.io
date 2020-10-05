@@ -49,7 +49,7 @@ _Research Intern_
 ### PROJECTS
 #### Forward kinematics of Stewart Platform (Aug 2016 - May 2017)
 _Final year University Project_
-- A neural network was used to nd solutions to the problem of forward kinematics of a stewart gough
+- A neural network was used to find solutions to the problem of forward kinematics of a stewart gough
 platform in real-time.
 - Created a working model using stepper motors, arduino board and python algorithm.
 #### University CanSat Challenge, Bangalore (Aug 2015 - Jan 2016)

@@ -61,7 +61,7 @@ parachute.
 - Designed and developed a system which could take various atmospheric data like temperature, pressure,
 altitude, GPS, and video and send it all to a ground station in real-time.
 #### ABU Robocon India, Pune (Aug 2014 - Mar 2015)
-Annual Robotics Competition
+_Annual Robotics Competition_
 - Participated in the national-level Robotics competition contested by more than 80 teams across the
 country.
 - Involved in the design and development of two Robots capable of playing a doubles badminton match.

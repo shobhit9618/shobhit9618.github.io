@@ -87,3 +87,4 @@ _Georgia Institute of technology_
 ### Contact me
 
 [LinkedIn](https://www.linkedin.com/in/shobhitgupta9618/)
+[Twitter](https://twitter.com/shobhit9618)
